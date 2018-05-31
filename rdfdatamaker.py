@@ -16,12 +16,12 @@ with open ('OrolProg.csv', 'r', newline='', encoding='utf-8') as ifp:
                 #writer.writerow([''+str(i), header[j], 'http://dilab77.ionio.gr/sw/p14psar/myvocab#'+str(item)])
                 if j==0 or j==1 or j==2:
                     #print(i+1, header[j], 'l:'+str(item))
-                    writer.writerow(['b:'+str(i+1), 'http://dilab77.ionio.gr/sw/p14psar/myvocab#'+str(header[j].replace('/', '%2f').replace(' ', '%20')), ''+str(item.replace(' ', '%20'))])
+                    writer.writerow(['b:'+str(i+1), 'http://dilab77.ionio.gr/sw/p14psar/myvocab#'+str(header[j].replace('/', '%2F').replace('/', '%2Ε').replace(' ', '%20')), ''+str(item.replace('/', '%2F').replace('/', '%2Ε').replace(' ', '%20'))])
                 if j==3 or j==4 or j==5:
                     #print(i+1, header[j], 'u:'+str(item))
                     #item = item.replace(' ', '%20')
                     #item = item.replace('/', '%2f')
-                    writer.writerow(['b:'+str(i+1), 'http://dilab77.ionio.gr/sw/p14psar/myvocab#'+str(header[j].replace('/', '%2f').replace(' ', '%20')), 'http://dilab77.ionio.gr/sw/p14psar/resource/'+str(item.replace(' ', '%20'))])
+                    writer.writerow(['b:'+str(i+1), 'http://dilab77.ionio.gr/sw/p14psar/myvocab#'+str(header[j].replace('/', '%2F').replace('/', '%2Ε').replace(' ', '%20')), 'http://dilab77.ionio.gr/sw/p14psar/resource/'+str(item.replace('/', '%2F').replace('/', '%2Ε').replace(' ', '%20'))])
                 #print(i+1, header[j],item)
                 #print(i+1, header[j],item)
                 #print(i+1, row)
