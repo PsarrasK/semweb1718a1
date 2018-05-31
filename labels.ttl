@@ -1,0 +1,21 @@
+PREFIX res: <http://dilab77.ionio.gr/sw/p14psar/resources/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#> 
+
+<http://dilab77.ionio.gr/sw/p14psar/resources/Αποθήκες%20Δεδομένων%20και%20Εξόρυξη%20Γνώσης> rdfs:label "Αποθήκες Δεδομένων και Εξόρυξη Γνώσης" .
+<http://dilab77.ionio.gr/sw/p14psar/resources/Διοίκηση%20Ασφάλειας%20Πληροφοριακών%20Συστημάτων> rdfs:label "Διοίκηση Ασφάλειας Πληροφοριακών Συστημάτων" .
+<http://dilab77.ionio.gr/sw/p14psar/resources/Ηλεκτρονική%20Διακυβέρνηση> rdfs:label "Ηλεκτρονική Διακυβέρνηση" .
+<http://dilab77.ionio.gr/sw/p14psar/resources/Παράλληλος%20Προγραμματισμός> rdfs:label "Παράλληλος Προγραμματισμός" .
+<http://dilab77.ionio.gr/sw/p14psar/resources/Κοινωνικός%20και%20Σημασιολογικός%20Ιστός> rdfs:label "Κοινωνικός και Σημασιολογικός Ιστός" .
+<http://dilab77.ionio.gr/sw/p14psar/resources/Στρατηγική%20και%20Διοίκηση%20Πληροφοριακών%20Συστημάτων> rdfs:label "Στρατηγική και Διοίκηση Πληροφοριακών Συστημάτων" .
+<http://dilab77.ionio.gr/sw/p14psar/resources/Επεξεργασία%20Ομιλίας%20και%20Ήχου> rdfs:label "Επεξεργασία Ομιλίας και Ήχου" .
+<http://dilab77.ionio.gr/sw/p14psar/resources/Έξυπνα%20Περιβάλλοντα%20και%20Εφαρμογές> rdfs:label "Έξυπνα Περιβάλλοντα και Εφαρμογές" .
+
+<http://dilab77.ionio.gr/sw/p14psar/resources/Α%2E%20Πατέλη> rdfs:label "Α. Πατέλη" .
+<http://dilab77.ionio.gr/sw/p14psar/resources/Π%2E%20Κουροθανάσης> rdfs:label "Π. Κουρουθανάσης" .
+<http://dilab77.ionio.gr/sw/p14psar/resources/Θ%2E%20Έξαρχος> rdfs:label "Θ. Έξαρχος" .
+<http://dilab77.ionio.gr/sw/p14psar/resources/Μ%2E%20Στεφανιδάκης> rdfs:label "Μ. Στεφανιδάκης" .
+<http://dilab77.ionio.gr/sw/p14psar/resources/Α%2E%20Τσώχου> rdfs:label "Α. Τσώχου" .
+<http://dilab77.ionio.gr/sw/p14psar/resources/Ι%2E%20Καρύδης> rdfs:label "Ι. Καρύδης" .
+<http://dilab77.ionio.gr/sw/p14psar/resources/Φ%2E%20Μυλωνάς> rdfs:label "Φ. Μυλωνάς" .
+<http://dilab77.ionio.gr/sw/p14psar/resources/Κ%2E%20Χωριανόπουλος> rdfs:label "Κ. Χωριανόπουλος" .
+<http://dilab77.ionio.gr/sw/p14psar/resources/Κ%2E%20Κερμανίδου> rdfs:label "Κ. Κερμανίδου" .
